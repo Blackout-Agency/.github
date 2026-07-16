@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/blackout-logo-white.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/blackout-logo-white.png">
     <img src="assets/blackout-logo-ink.svg" alt="Blackout Agency" width="160">
   </picture>
 </p>
